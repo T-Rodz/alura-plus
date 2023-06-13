@@ -65,3 +65,38 @@ body {
 .container__caixa {
     margin: 0 6em;
 }
+
+.secundario__imagem {
+    width: 80%;
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao__titulo {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+
+.descricao__texto {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza-secundário);
+}
+
+
+/* forma alternativa de mexer nos container:
+
+.container__descricao h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.container__descricao p {
+    font-size: 16px;
+    font-weight: 400;
+} */
