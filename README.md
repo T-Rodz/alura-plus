@@ -1,4 +1,4 @@
-# alura-play
+# alura-plus
 
 
-``projeto em formato de exercício do Alura Play usando HTML e CSS``
+``projeto em formato de exercício do Alura Plus usando HTML e CSS``
